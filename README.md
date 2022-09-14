@@ -12,7 +12,7 @@
 
 
 ## react-chartjs-2
-![image](https://user-images.githubusercontent.com/93200194/190135947-b96bb2ca-2fea-4194-89ad-9d30371e3245.png)
+![image](https://user-images.githubusercontent.com/93200194/190137842-6898924a-b0a8-49a5-9a8d-4d53a1b10273.png)
 
 
 
